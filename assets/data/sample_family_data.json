@@ -1,0 +1,44 @@
+{
+  "family_members": [
+    {
+      "id": "member_1",
+      "name": "Ahmad Santoso",
+      "photoUrl": "https://images.unsplash.com/photo-1507003211169-0a1dd7228f2d?w=150&h=150&fit=crop&crop=face",
+      "address": "Jl. Merdeka No. 45, Jakarta, Jawa",
+      "latitude": -6.2088,
+      "longitude": 106.8456,
+      "phoneNumber": "+62812345678",
+      "email": "ahmad.santoso@email.com",
+      "birthDate": "1975-05-15T00:00:00.000Z",
+      "relationship": "Ayah",
+      "occupation": "Guru",
+      "description": "Ahmad adalah seorang Guru yang tinggal di Jakarta. Beliau dikenal sebagai sosok yang ramah dan peduli keluarga.",
+      "tags": ["Guru", "Ayah", "Jakarta", "Keluarga", "Ramah"],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-06-01T00:00:00.000Z"
+    },
+    {
+      "id": "member_2",
+      "name": "Siti Wijaya",
+      "photoUrl": "https://images.unsplash.com/photo-1494790108755-2616b612b786?w=150&h=150&fit=crop&crop=face",
+      "address": "Jl. Sudirman No. 23, Surabaya, Jawa",
+      "latitude": -7.2575,
+      "longitude": 112.7521,
+      "phoneNumber": "+62823456789",
+      "email": "siti.wijaya@email.com",
+      "birthDate": "1978-08-22T00:00:00.000Z",
+      "relationship": "Ibu",
+      "occupation": "Dokter",
+      "description": "Sebagai Dokter di Surabaya, Siti selalu aktif dalam kegiatan sosial dan kemasyarakatan.",
+      "tags": ["Dokter", "Ibu", "Surabaya", "Sosial", "Aktif"],
+      "createdAt": "2024-01-01T00:00:00.000Z",
+      "updatedAt": "2024-06-01T00:00:00.000Z"
+    }
+  ],
+  "app_info": {
+    "version": "1.0.0",
+    "last_updated": "2024-06-09T00:00:00.000Z",
+    "total_members": 55,
+    "total_locations": 25
+  }
+}
